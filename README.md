@@ -99,8 +99,6 @@ Excel the Dataset format known from the windows client as Excel File
 
 ### **[RDLC Report Custom Code](https://github.com/AndreasRascher/RDLCReport_CustomCode)**
 Getdata by name - custom code functions for Dynamics NAV and Business Central
-https://github.com/AndreasRascher/RDLCReport_CustomCode
-
 
 <br><br>
 
