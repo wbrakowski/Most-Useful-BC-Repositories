@@ -60,7 +60,7 @@ We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
 
-<br><br>
+<br>
 ## Informational
 
 ### **[MSDYN365BC Code History](https://github.com/StefanMaron/MSDyn365BC.Code.History)** 
@@ -68,7 +68,7 @@ Contains the Microsoft Business Central Code. Updated each month.
 
 ### **[AL Dependency Analysis](https://github.com/waldo1001/ALDependencyAnalysis)**
 
-<br><br>
+<br>
 ## Administrative Stuff in BC - Modify and Delete Tables - License etc.
 
 ### **[Data Editor for BC](https://github.com/Drakonian/data-editor-for-bc)** 
@@ -80,13 +80,13 @@ This tool can be used to remove transactional data from a company in Business Ce
 ### **[Admin Toolbox OnPrem](https://github.com/wbrakowski/Admin-Toolbox-OnPrem)**
 The Admin Toolbox is a Business central App. It can delete and edit records, view license information and import licenses, hyperlinks to informational tables.
 
-<br><br>
+<br>
 
 ## Azure 
 ### **[Azure Blob Storage API](https://github.com/cosmoconsult/D365BC-Blob-Storage-API)**
 Open Source App for Microsoft Dynamics 365 Business Central to implement the Azure Blob Storage API.
 
-<br><br>
+<br>
 
 ## Reports
 
@@ -100,7 +100,7 @@ Excel the Dataset format known from the windows client as Excel File
 ### **[RDLC Report Custom Code](https://github.com/AndreasRascher/RDLCReport_CustomCode)**
 Getdata by name - custom code functions for Dynamics NAV and Business Central
 
-<br><br>
+<br>
 
 ## Webservices
 
@@ -111,9 +111,9 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 
 ### **[BC OAuth 2.0 Authorization](https://github.com/msnraju/BC-OAuth-2.0-Authorization)**
 
-### **[BC API Postman](https://github.com/ajkauffmann/BC.API.Postman)** <br><br>
+### **[BC API Postman](https://github.com/ajkauffmann/BC.API.Postman)** <br>
 
-<br><br>
+<br>
 
 ## Powershell
 
@@ -121,13 +121,13 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 waldo's PowerShell Scripts & Modules
 
 
-<br><br>
+<br>
 
 ## Translations
 
 ### **[AL Translate Tool](https://github.com/peikba/AL-Translate-Tool)** 
 
-<br><br>
+<br>
 
 ## Docker & DevOps
 
@@ -139,14 +139,14 @@ Welcome to ALOps, an extension for Microsoft Azure DevOps, for easily setting up
 The goal of this repository is to have information and documentation about the extension, as well as a place to communicate anything about the functionality.
 
 ### **[MSDYN365BC 15 Template](https://github.com/megel/MSDyn365BC-15-Template)**
-Project Template for Microsoft Dynamics 365 Business Central<br><br>
+Project Template for Microsoft Dynamics 365 Business Central<br>
 
 ### **[AL GO](https://github.com/microsoft/AL-Go)**
 AL-Go for GitHub is a set of GitHub templates and actions, which can be used to setup and maintain professional DevOps processes for your Business Central AL projects.
 
 The goal is that people who have created their GitHub repositories based on the AL-Go templates, can maintain these repositories and stay current just by running a workflow, which updates their repositories. This includes necessary changes to scripts and workflows to cope with new features and functions in Business Central.
 
-<br><br>
+<br>
 
 ## Test Automation
 
@@ -158,14 +158,14 @@ This is the code repository for Automated Testing in Microsoft Dynamics 365 Busi
 
 Efficiently automate test cases in Dynamics NAV and Business Central
 
-<br><br>
+<br>
 
 ## C/SIDE to AL
 
 ### **[Uplifting](https://github.com/hougaard/Uplifting)**
 Uplifting for Dynamics 365 Business Central C/Side to AL data conversion
 
-<br><br>
+<br>
 
 ## Upgrades
 ### **[BCUpgrade](https://github.com/microsoft/BCUpgrade)**
@@ -177,7 +177,7 @@ We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
 
-<br><br>
+<br>
 
 ## PDF
 
@@ -194,7 +194,7 @@ More info at this blog post: https://www.kauffmann.nl/2019/01/22/pdf-viewer-in-b
 ### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
-<br><br>
+<br>
 
 
 ## Examples / Education / Learning / Blogging
@@ -218,7 +218,7 @@ Welcome to the repository for the application help content for Dynamics 365 Busi
 ### **[BC Open Discussion](https://github.com/postsaurav/bcopendiscussion)**
 This Repo will have sample code covered during #NAVBCOpenDiscussion.
 
-<br><br>
+<br>
 
 ## Books
 
