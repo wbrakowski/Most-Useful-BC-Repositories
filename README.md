@@ -90,14 +90,14 @@ Open Source App for Microsoft Dynamics 365 Business Central to implement the Azu
 
 ## Reports
 
-### **[ Mini Report Inspector - https://github.com/AndreasRascher/MiniReportInspector)**
+### **[Mini Report Inspector](https://github.com/AndreasRascher/MiniReportInspector)**
 The Mini Report Inspector enables you to export informations about the report DataSet in 3 different formats:
 
 SaveAsXML the Result from Report.SaveAsxml
 ResultSet XML the Dataset format known from the windows client as XML File
 Excel the Dataset format known from the windows client as Excel File
 
-### **[ RDLC Report Custom Code - https://github.com/AndreasRascher/RDLCReport_CustomCode)**
+### **[RDLC Report Custom Code](https://github.com/AndreasRascher/RDLCReport_CustomCode)**
 Getdata by name - custom code functions for Dynamics NAV and Business Central
 https://github.com/AndreasRascher/RDLCReport_CustomCode
 
@@ -193,7 +193,7 @@ More info at this blog post: https://www.kauffmann.nl/2019/01/22/pdf-viewer-in-b
 
 ## Miscellaneous
 
-### **[ **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
+### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
 <br><br>
