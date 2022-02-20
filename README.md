@@ -7,7 +7,7 @@ Useful repositories regarding Business Central. Please note that some there are 
 - [Azure](#azure)
 - [Reports](#reports)
 - [Webservices](#webservices)
-- [Powershell](powershell)
+- [Powershell](#powershell)
 - [Translations](#translations)
 - [Docker & DevOps](#docker--devops)
 - [Test Automation](#test-automation)
