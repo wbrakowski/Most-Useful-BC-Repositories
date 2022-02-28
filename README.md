@@ -4,6 +4,7 @@ Useful repositories regarding Business Central. Please note that some there are 
 ## Content
 - [Microsoft](#microsoft)
 - [Informational](#informational)
+- [Administrative Stuff in BC - Modify and Delete Tables - License etc.](#administrative-stuff-in-bc---modify-and-delete-tables---license-etc)
 - [Azure](#azure)
 - [Reports](#reports)
 - [Webservices](#webservices)
