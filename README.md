@@ -227,6 +227,10 @@ This is the code repository for Automated Testing in Microsoft Dynamics 365 Busi
 
 Efficiently automate test cases in Dynamics NAV and Business Central
 
+### **[Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central-Second-Edition)**
+This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition, published by Packt.
+
+Efficiently automate test cases for faster development cycles with less time needed for manual testing
 
 ### **[Dynamics 365 Business Central Development Quick Start Guide](https://github.com/PacktPublishing/Dynamics-365-Business-Central-Development-Quick-Start-Guide)** 
 
