@@ -214,7 +214,7 @@ Efficiently automate test cases for faster development cycles with less time nee
 This is the code repository for Dynamics 365 Business Central Development Quick Start Guide, published by Packt.
 Modern development techniques for Dynamics 365 Business Central
 
-### **[](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central)**
+### **[ Mastering Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central)**
 This is the code repository for Mastering Microsoft Dynamics 365 Business Central, published by Packt.
 Discover extension development best practices, build advanced ERP integrations, and use DevOps tools
 
