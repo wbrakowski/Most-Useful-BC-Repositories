@@ -19,7 +19,7 @@ Useful repositories regarding Business Central. Please note that some there are 
 - [Examples / Education / Learning / Blogging](#examples--education--learning--blogging)
 - [Books](#books)
 
-## Microsoft 
+## Microsoft
 
 ### **[AL](https://github.com/microsoft/AL)**
 The main purpose of this repository is to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central. In addition, you will find code samples to help you get started writing extensions in AL and get familiar with the tools.
@@ -61,14 +61,12 @@ We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
 
-
 ## Informational
 
 ### **[MSDYN365BC Code History](https://github.com/StefanMaron/MSDyn365BC.Code.History)** 
 Contains the Microsoft Business Central Code. Updated each month.
 
 ### **[AL Dependency Analysis](https://github.com/waldo1001/ALDependencyAnalysis)**
-
 
 ## Administrative Stuff in BC - Modify and Delete Tables - License etc.
 
@@ -81,13 +79,10 @@ This tool can be used to remove transactional data from a company in Business Ce
 ### **[Admin Toolbox OnPrem](https://github.com/wbrakowski/Admin-Toolbox-OnPrem)**
 The Admin Toolbox is a Business central App. It can delete and edit records, view license information and import licenses, hyperlinks to informational tables.
 
+## Azure
 
-
-## Azure 
 ### **[Azure Blob Storage API](https://github.com/cosmoconsult/D365BC-Blob-Storage-API)**
 Open Source App for Microsoft Dynamics 365 Business Central to implement the Azure Blob Storage API.
-
-
 
 ## Reports
 
@@ -101,8 +96,6 @@ Excel the Dataset format known from the windows client as Excel File
 ### **[RDLC Report Custom Code](https://github.com/AndreasRascher/RDLCReport_CustomCode)**
 Getdata by name - custom code functions for Dynamics NAV and Business Central
 
-
-
 ## Webservices
 
 ### **[Waldo.Restapp](https://github.com/waldo1001/waldo.restapp)**
@@ -114,20 +107,19 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 
 ### **[BC API Postman](https://github.com/ajkauffmann/BC.API.Postman)** 
 
-
 ## Powershell
+
+### **[ BCContainerHelper](https://github.com/microsoft/navcontainerhelper)**
+Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
 ### **[Cloudy Ready Software Powershell](https://github.com/waldo1001/Cloud.Ready.Software.PowerShell)**
 waldo's PowerShell Scripts & Modules
 
-
-
+### **[D365 BC AppHelper](https://github.com/SimonOfHH/D365BCAppHelper)**
 
 ## Translations
 
 ### **[AL Translate Tool](https://github.com/peikba/AL-Translate-Tool)** 
-
-
 
 ## Docker & DevOps
 
@@ -146,8 +138,6 @@ AL-Go for GitHub is a set of GitHub templates and actions, which can be used to 
 
 The goal is that people who have created their GitHub repositories based on the AL-Go templates, can maintain these repositories and stay current just by running a workflow, which updates their repositories. This includes necessary changes to scripts and workflows to cope with new features and functions in Business Central.
 
-
-
 ## Test Automation
 
 ### **[Test Automation Examples](https://github.com/fluxxus-nl/Test-Automation-Examples)**
@@ -158,16 +148,13 @@ This is the code repository for Automated Testing in Microsoft Dynamics 365 Busi
 
 Efficiently automate test cases in Dynamics NAV and Business Central
 
-
-
 ## C/SIDE to AL
 
 ### **[Uplifting](https://github.com/hougaard/Uplifting)**
 Uplifting for Dynamics 365 Business Central C/Side to AL data conversion
 
-
-
 ## Upgrades
+
 ### **[BCUpgrade](https://github.com/microsoft/BCUpgrade)**
 This project contains: Powerpoint explaining the current upgrade process Example scripts you can use to test the upgrade
 
@@ -176,8 +163,6 @@ Please help with updating the content by opening issues. You can ask any questio
 We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
-
-
 
 ## PDF
 
@@ -188,16 +173,13 @@ PDF Viewer for Microsoft Dynamics 365 Business Central
 
 More info at this blog post: https://www.kauffmann.nl/2019/01/22/pdf-viewer-in-business-central/
 
-
 ## Miscellaneous
 
 ### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
-
-
-
 ## Examples / Education / Learning / Blogging
+
 ### **[Hougaard Youtube Video Sources](https://github.com/hougaard/Youtube-Video-Sources)**
 All the source code from Erik's youtube videos (https://www.youtube.com/c/ErikHougaard)
 
@@ -218,23 +200,28 @@ Welcome to the repository for the application help content for Dynamics 365 Busi
 ### **[BC Open Discussion](https://github.com/postsaurav/bcopendiscussion)**
 This Repo will have sample code covered during #NAVBCOpenDiscussion.
 
-
-
 ## Books
 
 ### **[Automated Testing in Microsoft Dynamics 365 Buiness Central](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central)**
 This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central, published by Packt.
-
 Efficiently automate test cases in Dynamics NAV and Business Central
 
 ### **[Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central-Second-Edition)**
 This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition, published by Packt.
-
 Efficiently automate test cases for faster development cycles with less time needed for manual testing
 
 ### **[Dynamics 365 Business Central Development Quick Start Guide](https://github.com/PacktPublishing/Dynamics-365-Business-Central-Development-Quick-Start-Guide)** 
+This is the code repository for Dynamics 365 Business Central Development Quick Start Guide, published by Packt.
+Modern development techniques for Dynamics 365 Business Central
 
-Dynamics 365 Business Central Development Quick Start Guide, published by Packt Dynamics 365 Business Central Development Quick Start GuideThis is the code repository for Dynamics 365 Business Central Development Quick Start Guide, published by Packt. Modern development techniques for Dynamics 365 Business Central
+### **[](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central)**
+This is the code repository for Mastering Microsoft Dynamics 365 Business Central, published by Packt.
+Discover extension development best practices, build advanced ERP integrations, and use DevOps tools
 
+### **[Microsoft Dynamics 365 Business Central Cookbook](https://github.com/PacktPublishing/Microsoft-Dynamics-365-Business-Central-Cookbook)**
+This is the code repository for Microsoft Dynamics 365 Business Central Cookbook , published by Packt.
+Effective recipes for developing and deploying applications with Dynamics 365 Business Central
 
-
+### **[Programming Microsoft Dynamics 365 Business Central - Sixth Edition](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Sixth-Edition)**
+This is the code repository for Programming Microsoft Dynamics 365 Business Central - Sixth Edition, published by Packt.
+Understand the strengths of NAV's development tools and how they can address functional business requirements
