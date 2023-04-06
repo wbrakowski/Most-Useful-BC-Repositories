@@ -47,6 +47,8 @@ The goal is that people who have created their GitHub repositories based on the 
 ### **[Dynamics 365 SMB Docs](https://github.com/MicrosoftDocs/dynamics365smb-docs)**
 Welcome to the repository for the application help content for Dynamics 365 Business Central! This repo gives you access to the source files for the enduser Learn More content. It also provides a way for you to actively contribute to the current Business Central content.
 
+### **[Developer Docs](https://github.com/MicrosoftDocs/dynamics365smb-devitpro-pb)**
+
 ### **[AL Guidelines](https://github.com/microsoft/alguidelines)**
 This site is meant to house some of the community's knowledge about Microsoft Dynamics 365 Business Central AL Development best practices, particularly around hosting Design Patterns.
 
@@ -178,6 +180,9 @@ More info at this blog post: https://www.kauffmann.nl/2019/01/22/pdf-viewer-in-b
 ### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
+### **[BusinessCentral LinterCop](https://github.com/StefanMaron/BusinessCentral.LinterCop)**
+This code analyzer is meant to check your code for all sorts of problems.
+
 ## Examples / Education / Learning / Blogging
 
 ### **[Hougaard Youtube Video Sources](https://github.com/hougaard/Youtube-Video-Sources)**
@@ -199,6 +204,8 @@ Welcome to the repository for the application help content for Dynamics 365 Busi
 
 ### **[BC Open Discussion](https://github.com/postsaurav/bcopendiscussion)**
 This Repo will have sample code covered during #NAVBCOpenDiscussion.
+
+### **[Microsoft Learning - MB-800 Business Central Functional Consultant](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant)**
 
 ## Books
 
