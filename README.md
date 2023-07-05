@@ -16,6 +16,7 @@ Useful repositories regarding Business Central. Please note that some there are 
 - [Upgrades](#upgrades)
 - [PDF](#pdf)
 - [Miscellaneous](#miscellaneous)
+- [Signatures](#signatures)
 - [Examples / Education / Learning / Blogging](#examples--education--learning--blogging)
 - [Books](#books)
 
@@ -199,8 +200,10 @@ More info at this blog post: https://vld-nav.com/bc-pdf-viewer-full
 ### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
+## Signatures
 
-
+### **[Hand Written Signatures in AL](https://github.com/nocubicles/bc-handwritten-signatures)**
+This example uses a signature pad in Business Central so you can save hand written signatures to documents inside Business Central.
 
 ## Examples / Education / Learning / Blogging
 ### **[Hougaard Youtube Video Sources](https://github.com/hougaard/Youtube-Video-Sources)**
