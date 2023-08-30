@@ -255,38 +255,54 @@ This Repo will have sample code covered during #NAVBCOpenDiscussion.
 
 ## Books
 
-### **[Automated Testing in Microsoft Dynamics 365 Buiness Central](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central)**
+### **[Automated Testing in Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central)**
 
 This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central, published by Packt.
 
-Efficiently automate test cases in Dynamics NAV and Business Central
+Efficiently automate test cases in Dynamics NAV and Business Central.
 
 ### **[Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central-Second-Edition)**
 
 This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition, published by Packt.
 
-Efficiently automate test cases for faster development cycles with less time needed for manual testing
+Efficiently automate test cases for faster development cycles with less time needed for manual testing.
 
 ### **[Dynamics 365 Business Central Development Quick Start Guide](https://github.com/PacktPublishing/Dynamics-365-Business-Central-Development-Quick-Start-Guide)**
 
 This is the code repository for Dynamics 365 Business Central Development Quick Start Guide, published by Packt.
 
-Modern development techniques for Dynamics 365 Business Central
+Modern development techniques for Dynamics 365 Business Central.
+
+### **[Extending Business Central with the Power Platform](https://github.com/PacktPublishing/Extending-Business-Central-with-the-Power-Platform)**
+
+This is the code repository for Extending Business Central with the Power Platform, published by Packt.
 
 ### **[Mastering Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central)**
 
 This is the code repository for Mastering Microsoft Dynamics 365 Business Central, published by Packt.
 
-Discover extension development best practices, build advanced ERP integrations, and use DevOps tools
+Discover extension development best practices, build advanced ERP integrations, and use DevOps tools.
+
+### **[Mastering Microsoft Dynamics 365 Business Central - Second Edition](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central-Second-Edition)**
+
+This is the code repository for Mastering Microsoft Dynamics 365 Business Central - Second Edition, published by Packt.
+
+Discover extension development best practices, build advanced ERP integrations, and use DevOps tools.
 
 ### **[Microsoft Dynamics 365 Business Central Cookbook](https://github.com/PacktPublishing/Microsoft-Dynamics-365-Business-Central-Cookbook)**
 
 This is the code repository for Microsoft Dynamics 365 Business Central Cookbook , published by Packt.
 
-Effective recipes for developing and deploying applications with Dynamics 365 Business Central
+Effective recipes for developing and deploying applications with Dynamics 365 Business Central.
 
 ### **[Programming Microsoft Dynamics 365 Business Central - Sixth Edition](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Sixth-Edition)**
 
 This is the code repository for Programming Microsoft Dynamics 365 Business Central - Sixth Edition, published by Packt.
 
-Understand the strengths of NAV's development tools and how they can address functional business requirements
+Understand the strengths of NAV's development tools and how they can address functional business requirements.
+
+### **[Programming Microsoft Dynamics 365 Business Central - Seventh Edition](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Seventh-Edition)**
+
+This is the code repository for Programming Microsoft Dynamics 365 Business Central - Seventh Edition, published by Packt.
+
+Understand the strengths of NAV's development tools and how they can address functional business requirements.
