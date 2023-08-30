@@ -257,52 +257,52 @@ This Repo will have sample code covered during #NAVBCOpenDiscussion.
 
 ### **[Automated Testing in Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central)**
 
-This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central, published by Packt.
+This is the code repository for **Automated Testing in Microsoft Dynamics 365 Business Central**, _published by Packt_.
 
 Efficiently automate test cases in Dynamics NAV and Business Central.
 
 ### **[Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central-Second-Edition)**
 
-This is the code repository for Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition, published by Packt.
+This is the code repository for **Automated Testing in Microsoft Dynamics 365 Business Central - Second Edition**, _published by Packt_.
 
 Efficiently automate test cases for faster development cycles with less time needed for manual testing.
 
 ### **[Dynamics 365 Business Central Development Quick Start Guide](https://github.com/PacktPublishing/Dynamics-365-Business-Central-Development-Quick-Start-Guide)**
 
-This is the code repository for Dynamics 365 Business Central Development Quick Start Guide, published by Packt.
+This is the code repository for **Dynamics 365 Business Central Development Quick Start Guide**, _published by Packt_.
 
 Modern development techniques for Dynamics 365 Business Central.
 
 ### **[Extending Business Central with the Power Platform](https://github.com/PacktPublishing/Extending-Business-Central-with-the-Power-Platform)**
 
-This is the code repository for Extending Business Central with the Power Platform, published by Packt.
+This is the code repository for **Extending Business Central with the Power Platform**, _published by Packt_.
 
 ### **[Mastering Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central)**
 
-This is the code repository for Mastering Microsoft Dynamics 365 Business Central, published by Packt.
+This is the code repository for **Mastering Microsoft Dynamics 365 Business Central**, _published by Packt_.
 
 Discover extension development best practices, build advanced ERP integrations, and use DevOps tools.
 
 ### **[Mastering Microsoft Dynamics 365 Business Central - Second Edition](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central-Second-Edition)**
 
-This is the code repository for Mastering Microsoft Dynamics 365 Business Central - Second Edition, published by Packt.
+This is the code repository for **Mastering Microsoft Dynamics 365 Business Central - Second Edition**, _published by Packt_.
 
 Discover extension development best practices, build advanced ERP integrations, and use DevOps tools.
 
 ### **[Microsoft Dynamics 365 Business Central Cookbook](https://github.com/PacktPublishing/Microsoft-Dynamics-365-Business-Central-Cookbook)**
 
-This is the code repository for Microsoft Dynamics 365 Business Central Cookbook , published by Packt.
+This is the code repository for **Microsoft Dynamics 365 Business Central Cookbook**, _published by Packt_.
 
 Effective recipes for developing and deploying applications with Dynamics 365 Business Central.
 
 ### **[Programming Microsoft Dynamics 365 Business Central - Sixth Edition](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Sixth-Edition)**
 
-This is the code repository for Programming Microsoft Dynamics 365 Business Central - Sixth Edition, published by Packt.
+This is the code repository for Programming **Microsoft Dynamics 365 Business Central - Sixth Edition**, _published by Packt_.
 
 Understand the strengths of NAV's development tools and how they can address functional business requirements.
 
 ### **[Programming Microsoft Dynamics 365 Business Central - Seventh Edition](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Seventh-Edition)**
 
-This is the code repository for Programming Microsoft Dynamics 365 Business Central - Seventh Edition, published by Packt.
+This is the code repository for Programming **Microsoft Dynamics 365 Business Central - Seventh Edition**, _published by Packt_.
 
 Understand the strengths of NAV's development tools and how they can address functional business requirements.
