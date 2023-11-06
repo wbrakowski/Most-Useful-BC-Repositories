@@ -1,5 +1,5 @@
 # Most-Useful-BC-Repositories
-Useful repositories regarding Business Central. Please note that some there are link duplicates if one link fits into different categories. Feel free to offer feedback and create pull requests.
+Useful repositories regarding Business Central. Please note that there are some link duplicates if one link fits into different categories. Feel free to offer feedback and create pull requests.
 
 ## Content
 - [Microsoft](#microsoft)
