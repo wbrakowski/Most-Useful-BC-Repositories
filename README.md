@@ -25,6 +25,10 @@ Useful repositories regarding Business Central. Please note that some there are 
 ### **[AL](https://github.com/microsoft/AL)**
 The main purpose of this repository is to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central. In addition, you will find code samples to help you get started writing extensions in AL and get familiar with the tools.
 
+### **[BCApps](https://github.com/microsoft/BCApps)**
+Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
+This repository contains the source code for several Business Central applications, developed by Microsoft.
+
 ### **[AL App Extensions](https://github.com/microsoft/ALAppExtensions)**
 Welcome to the ALAppExtension repository!
 
