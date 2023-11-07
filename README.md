@@ -38,6 +38,10 @@ We’re working to make the core application thinner, more extensible, and easie
 
 Microsoft will ship the contributions in upcoming releases of Microsoft Dynamics 365 Business Central, where you’ll get to enjoy the effect of your contributions.
 
+### **[BCApps](https://github.com/microsoft/BCApps)**
+
+### **[BusinessCentralApps](https://github.com/microsoft/BusinessCentralApps)**
+
 ### **[BCTech](https://github.com/microsoft/BCTech)**
 
 In the Business Central development team, we are passionate about technology. If you are a Business Central developer or simply a BC tech enthusiast and you share the same passion, this repo is for you. In the R&D team, we work hard for each release to implement new features to make this product great, but if you are a developer, you know that there are a lot of other things happening in the process. We do prototypes, investigate new technologies, set some intricate experiments to test performance, try out new processes and more. Most of this work never makes it out of the four walls of Microsoft and we realized that some of it might be of value to you, the members of the tech community. So instead of keeping all this good stuff for ourselves, we have decided to share. Don't hesitat to provide feedback, comments and opinions but also let us know what you want to hear about.
