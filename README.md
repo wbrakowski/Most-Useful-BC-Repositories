@@ -45,6 +45,8 @@ Microsoft will ship the contributions in upcoming releases of Microsoft Dynamics
 
 ### **[BusinessCentralApps](https://github.com/microsoft/BusinessCentralApps)**
 
+This repository is where we (Microsoft) accept contributions to the Dynamics 365 Business Central application platform from the community. Together with the ALAppExtensions repository, this makes up the beginning to convert the entire business application platform from closed to open source. Microsoft does not yet develop on the application platform in this open GitHub repository; development still takes place in an internal repository. Accepted contributions by the community will get merged with Microsoft's code changes and released together in an upcoming release of the product.
+
 ### **[BCTech](https://github.com/microsoft/BCTech)**
 
 In the Business Central development team, we are passionate about technology. If you are a Business Central developer or simply a BC tech enthusiast and you share the same passion, this repo is for you. In the R&D team, we work hard for each release to implement new features to make this product great, but if you are a developer, you know that there are a lot of other things happening in the process. We do prototypes, investigate new technologies, set some intricate experiments to test performance, try out new processes and more. Most of this work never makes it out of the four walls of Microsoft and we realized that some of it might be of value to you, the members of the tech community. So instead of keeping all this good stuff for ourselves, we have decided to share. Don't hesitat to provide feedback, comments and opinions but also let us know what you want to hear about.
@@ -283,6 +285,8 @@ Modern development techniques for Dynamics 365 Business Central.
 ### **[Extending Business Central with the Power Platform](https://github.com/PacktPublishing/Extending-Business-Central-with-the-Power-Platform)**
 
 This is the code repository for **Extending Business Central with the Power Platform**, _published by Packt_.
+
+Leverage Power Platform to create scalable Business Central solutions with high business value.
 
 ### **[Mastering Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Mastering-Microsoft-Dynamics-365-Business-Central)**
 
