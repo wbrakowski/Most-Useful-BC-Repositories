@@ -1,6 +1,6 @@
 # Most-Useful-BC-Repositories
 
-Useful repositories regarding Business Central. Please note that some there are link duplicates if one link fits into different categories. Feel free to offer feedback and create pull requests.
+Useful repositories regarding Business Central. Please note that there are some link duplicates if one link fits into different categories. Feel free to offer feedback and create pull requests.
 
 ## Content
 
@@ -28,6 +28,11 @@ Useful repositories regarding Business Central. Please note that some there are 
 
 The main purpose of this repository is to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central. In addition, you will find code samples to help you get started writing extensions in AL and get familiar with the tools.
 
+### **[BCApps](https://github.com/microsoft/BCApps)**
+
+Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
+This repository contains the source code for several Business Central applications, developed by Microsoft.
+
 ### **[AL App Extensions](https://github.com/microsoft/ALAppExtensions)**
 
 Welcome to the ALAppExtension repository!
@@ -37,8 +42,6 @@ This repo is a platform for Microsoft and our vibrant partner channel and commun
 We’re working to make the core application thinner, more extensible, and easier to localize by extracting more and more of our system logic into modules, forming a system application and application foundation, as well as extracting business logic into add-on and localization apps. As we go, we’ll publish the source code for the modules and apps in this repo. The modules and apps are open for contributions. The apps can furthermore serve as starting point for verticalizations or just as samples for developing apps.
 
 Microsoft will ship the contributions in upcoming releases of Microsoft Dynamics 365 Business Central, where you’ll get to enjoy the effect of your contributions.
-
-### **[BCApps](https://github.com/microsoft/BCApps)**
 
 ### **[BusinessCentralApps](https://github.com/microsoft/BusinessCentralApps)**
 
