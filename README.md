@@ -262,6 +262,8 @@ This Repo will have sample code covered during #NAVBCOpenDiscussion.
 
 ### **[Microsoft Learning - MB-800 Business Central Functional Consultant](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant)**
 
+### **[Microsoft Learning - MB-820 Business Central Developer](https://github.com/MicrosoftLearning/MB-820-Business-Central-Developer-Certification)**
+
 ## Books
 
 ### **[Automated Testing in Microsoft Dynamics 365 Business Central](https://github.com/PacktPublishing/Automated-Testing-in-Microsoft-Dynamics-365-Business-Central)**
