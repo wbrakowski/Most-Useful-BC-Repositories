@@ -91,6 +91,13 @@ Contains the Microsoft Business Central Code. Updated each month.
 
 ### **[AL Dependency Analysis](https://github.com/waldo1001/ALDependencyAnalysis)**
 
+### **[Sentinel](https://github.com/StefanMaron/BusinessCentral.Sentinel)**
+
+BusinessCentral.Sentinel is an intelligent monitoring and advisory tool designed for Microsoft Dynamics 365 Business Central users. 
+It focuses on the analysis of technical configuration and may include functional configuration in the future. 
+This app provides real-time insights, proactive alerts, and actionable recommendations to enhance operational efficiency, reduce risks, and optimize decision-making. BusinessCentral.
+Sentinel acts as a vigilant 'sentinel' for your business, ensuring key processes run smoothly and critical issues are addressed promptly.
+
 ## Administrative Stuff in BC - Modify and Delete Tables - License etc
 
 ### **[Data Editor for BC](https://github.com/Drakonian/data-editor-for-bc)**
