@@ -1,30 +1,30 @@
-# Most-Useful-BC-Repositories
+# Most-Useful-BC-Repositories 📚
 
-Useful repositories regarding Business Central. Please note that there are some link duplicates if one link fits into different categories. Feel free to offer feedback and create pull requests.
+> A curated collection of useful repositories for Microsoft Dynamics 365 Business Central. Feel free to offer feedback and create pull requests.
 
-## Content
+## 📑 Content
 
-- [Microsoft](#microsoft)
-- [Informational](#informational)
-- [Administrative Stuff in BC - Modify and Delete Tables - License etc.](#administrative-stuff-in-bc---modify-and-delete-tables---license-etc)
-- [Azure](#azure)
-- [Reports](#reports)
-- [Webservices](#webservices)
-- [Powershell](#powershell)
-- [Translations](#translations)
-- [Docker & DevOps](#docker--devops)
-- [Test Automation](#test-automation)
-- [C/SIDE to AL](#cside-to-al)
-- [Upgrades](#upgrades)
-- [PDF](#pdf)
-- [Miscellaneous](#miscellaneous)
-- [Signatures](#signatures)
-- [Examples / Education / Learning / Blogging](#examples--education--learning--blogging)
-- [Books](#books)
+- [🏢 Microsoft](#microsoft)
+- [ℹ️ Informational](#informational)
+- [🔧 Administrative Tools](#administrative-stuff-in-bc---modify-and-delete-tables---license-etc)
+- [☁️ Azure](#azure)
+- [📊 Reports](#reports)
+- [🌐 Webservices](#webservices)
+- [💻 Powershell](#powershell)
+- [🌍 Translations](#translations)
+- [🐳 Docker & DevOps](#docker--devops)
+- [🧪 Test Automation](#test-automation)
+- [🔄 C/SIDE to AL](#cside-to-al)
+- [⬆️ Upgrades](#upgrades)
+- [📄 PDF Tools](#pdf)
+- [🔨 Miscellaneous](#miscellaneous)
+- [✍️ Signatures](#signatures)
+- [📖 Learning Resources](#examples--education--learning--blogging)
+- [📚 Books](#books)
 
 ## Microsoft
 
-### **[AL](https://github.com/microsoft/AL)**
+### **[AL](https://github.com/microsoft/AL)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/AL?style=social)
 
 The main purpose of this repository is to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central. In addition, you will find code samples to help you get started writing extensions in AL and get familiar with the tools.
 
@@ -39,9 +39,9 @@ Welcome to the ALAppExtension repository!
 
 This repo is a platform for Microsoft and our vibrant partner channel and community to work together to develop system modules and add-on apps in the AL language and to enable the general extensibility of Microsoft Dynamics 365 Business Central.
 
-We’re working to make the core application thinner, more extensible, and easier to localize by extracting more and more of our system logic into modules, forming a system application and application foundation, as well as extracting business logic into add-on and localization apps. As we go, we’ll publish the source code for the modules and apps in this repo. The modules and apps are open for contributions. The apps can furthermore serve as starting point for verticalizations or just as samples for developing apps.
+We're working to make the core application thinner, more extensible, and easier to localize by extracting more and more of our system logic into modules, forming a system application and application foundation, as well as extracting business logic into add-on and localization apps. As we go, we'll publish the source code for the modules and apps in this repo. The modules and apps are open for contributions. The apps can furthermore serve as starting point for verticalizations or just as samples for developing apps.
 
-Microsoft will ship the contributions in upcoming releases of Microsoft Dynamics 365 Business Central, where you’ll get to enjoy the effect of your contributions.
+Microsoft will ship the contributions in upcoming releases of Microsoft Dynamics 365 Business Central, where you'll get to enjoy the effect of your contributions.
 
 ### **[BusinessCentralApps](https://github.com/microsoft/BusinessCentralApps)**
 
@@ -98,7 +98,7 @@ It focuses on the analysis of technical configuration and may include functional
 This app provides real-time insights, proactive alerts, and actionable recommendations to enhance operational efficiency, reduce risks, and optimize decision-making. BusinessCentral.
 Sentinel acts as a vigilant 'sentinel' for your business, ensuring key processes run smoothly and critical issues are addressed promptly.
 
-## Administrative Stuff in BC - Modify and Delete Tables - License etc
+## Administrative Tools
 
 ### **[Data Editor for BC](https://github.com/Drakonian/data-editor-for-bc)**
 
@@ -211,7 +211,11 @@ We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
 
-## PDF
+## PDF Tools
+
+### **[MergePDFFunctionApp](https://github.com/demiliani/MergePDFFunctionApp)** ![GitHub stars](https://img.shields.io/github/stars/demiliani/MergePDFFunctionApp?style=social)
+
+Azure Function for merging PDFs online. Pass a JSON containing a list of PDF files (Base64 content) and receive the merged file as Base64 content in response.
 
 ### **[Merge PDF in Business Central](https://github.com/gonzaloriosley/Merge-PDF-Business-Central)**
 
@@ -239,7 +243,7 @@ BCALToolbox is a collection of functions used when doing development in AL for M
 
 This example uses a signature pad in Business Central so you can save hand written signatures to documents inside Business Central.
 
-## Examples / Education / Learning / Blogging
+## Learning Resources
 
 ### **[Hougaard Youtube Video Sources](https://github.com/hougaard/Youtube-Video-Sources)**
 
