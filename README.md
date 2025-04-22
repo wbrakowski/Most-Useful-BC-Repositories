@@ -166,6 +166,13 @@ This tool can be used to remove transactional data from a company in Business Ce
 
 The Admin Toolbox is a Business central App. It can delete and edit records, view license information and import licenses, hyperlinks to informational tables.
 
+### **[Gordon](https://eos-solutions.github.io/Gordon)**
+
+![GitHub stars](https://img.shields.io/github/stars/EOS-Solutions/Gordon?style=social)
+> 🧑‍💻 By [EOS Solutions]([https://github.com/wbrakowski](https://github.com/EOS-Solutions))
+
+The Admin Toolbox is a Business central App. It can delete and edit records, view license information and import licenses, hyperlinks to informational tables.
+
 ## Azure
 
 ### **[Azure Blob Storage API](https://github.com/cosmoconsult/D365BC-Blob-Storage-API)**
@@ -173,7 +180,7 @@ The Admin Toolbox is a Business central App. It can delete and edit records, vie
 ![GitHub stars](https://img.shields.io/github/stars/cosmoconsult/D365BC-Blob-Storage-API?style=social)
 > 🧑‍💻 By [COSMO CONSULT](https://github.com/cosmoconsult)
 
-Open Source App for Microsoft Dynamics 365 Business Central to implement the Azure Blob Storage API.
+Gordon ecosystem is a set of tools that helps you easily manage Business Central environments: Manage Apps, BC Services, Docker, XLIFF Translations and more
 
 ## Reports
 
