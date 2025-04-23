@@ -180,7 +180,7 @@ Gordon ecosystem is a set of tools that helps you easily manage Business Central
 ![GitHub stars](https://img.shields.io/github/stars/cosmoconsult/D365BC-Blob-Storage-API?style=social)
 > 🧑‍💻 By [COSMO CONSULT](https://github.com/cosmoconsult)
 
-Gordon ecosystem is a set of tools that helps you easily manage Business Central environments: Manage Apps, BC Services, Docker, XLIFF Translations and more
+Open Source App for Microsoft Dynamics 365 Business Central to implement the Azure Blob Storage API.
 
 ## Reports
 
