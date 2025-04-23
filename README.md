@@ -6,7 +6,7 @@
 
 - [🏢 Microsoft](#microsoft)
 - [ℹ️ Informational](#informational)
-- [🔧 Administrative Tools](#administrative-stuff-in-bc---modify-and-delete-tables---license-etc)
+- [🔧 Administrative Tools](#administrative-tools)
 - [☁️ Azure](#azure)
 - [📊 Reports](#reports)
 - [🌐 Webservices](#webservices)
@@ -16,10 +16,10 @@
 - [🧪 Test Automation](#test-automation)
 - [🔄 C/SIDE to AL](#cside-to-al)
 - [⬆️ Upgrades](#upgrades)
-- [📄 PDF Tools](#pdf)
+- [📄 PDF Tools](#pdf-tools)
 - [🔨 Miscellaneous](#miscellaneous)
 - [✍️ Signatures](#signatures)
-- [📖 Learning Resources](#examples--education--learning--blogging)
+- [📖 Learning Resources](#learning-resources)
 - [📚 Books](#books)
 
 ## Microsoft
@@ -165,6 +165,13 @@ This tool can be used to remove transactional data from a company in Business Ce
 > 🧑‍💻 By [Waldemar Brakowski](https://github.com/wbrakowski)
 
 The Admin Toolbox is a Business central App. It can delete and edit records, view license information and import licenses, hyperlinks to informational tables.
+
+### **[Gordon](https://eos-solutions.github.io/Gordon)**
+
+![GitHub stars](https://img.shields.io/github/stars/EOS-Solutions/Gordon?style=social)
+> 🧑‍💻 By [EOS Solutions](https://github.com/EOS-Solutions)
+
+Gordon ecosystem is a set of tools that helps you easily manage Business Central environments: Manage Apps, BC Services, Docker Environments, XLIFF Translations
 
 ## Azure
 
