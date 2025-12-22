@@ -19,10 +19,15 @@
 - [📄 PDF Tools](#pdf-tools)
 - [🔨 Miscellaneous](#miscellaneous)
 - [✍️ Signatures](#signatures)
+- [🎨 UI/UX Extensions](#uiux-extensions)
+- [🛠️ Development Tools](#development-tools)
+- [🔐 Security & Authentication](#security--authentication)
 - [📖 Learning Resources](#learning-resources)
 - [📚 Books](#books)
 
 ## Microsoft
+
+> Official Microsoft repositories for Business Central development and documentation.
 
 ### **[AL](https://github.com/microsoft/AL)**
 
@@ -97,6 +102,8 @@ Welcome to the repository for the application help content for Dynamics 365 Busi
 ![GitHub stars](https://img.shields.io/github/stars/MicrosoftDocs/dynamics365smb-devitpro-pb?style=social)
 > 🧑‍💻 By [Microsoft Docs](https://github.com/MicrosoftDocs)
 
+Welcome to the repository for technical and development content for Dynamics 365 Business Central! This repository provides a way for you to actively contribute to the current Business Central developer and IT Pro content.
+
 ### **[AL Guidelines](https://github.com/microsoft/alguidelines)**
 
 ![GitHub stars](https://img.shields.io/github/stars/microsoft/alguidelines?style=social)
@@ -121,6 +128,8 @@ Let's make the upgrade easy together.
 
 ## Informational
 
+> Resources for tracking BC code changes, analyzing dependencies, and monitoring your environment.
+
 ### **[MSDYN365BC Code History](https://github.com/StefanMaron/MSDyn365BC.Code.History)**
 
 ![GitHub stars](https://img.shields.io/github/stars/StefanMaron/MSDyn365BC.Code.History?style=social)
@@ -133,6 +142,8 @@ Contains the Microsoft Business Central Code. Updated each month.
 ![GitHub stars](https://img.shields.io/github/stars/waldo1001/ALDependencyAnalysis?style=social)
 > 🧑‍💻 By [waldo](https://github.com/waldo1001)
 
+Tool for analyzing AL dependencies and creating dependency graphs for Business Central projects.
+
 ### **[Sentinel](https://github.com/StefanMaron/BusinessCentral.Sentinel)**
 
 ![GitHub stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.Sentinel?style=social)
@@ -144,6 +155,8 @@ This app provides real-time insights, proactive alerts, and actionable recommend
 Sentinel acts as a vigilant 'sentinel' for your business, ensuring key processes run smoothly and critical issues are addressed promptly.
 
 ## Administrative Tools
+
+> Tools for managing data, licenses, and administrative tasks in Business Central.
 
 ### **[Data Editor for BC](https://github.com/Drakonian/data-editor-for-bc)**
 
@@ -175,6 +188,8 @@ Gordon ecosystem is a set of tools that helps you easily manage Business Central
 
 ## Azure
 
+> Integration tools and APIs for connecting Business Central with Azure services.
+
 ### **[Azure Blob Storage API](https://github.com/cosmoconsult/D365BC-Blob-Storage-API)**
 
 ![GitHub stars](https://img.shields.io/github/stars/cosmoconsult/D365BC-Blob-Storage-API?style=social)
@@ -183,6 +198,8 @@ Gordon ecosystem is a set of tools that helps you easily manage Business Central
 Open Source App for Microsoft Dynamics 365 Business Central to implement the Azure Blob Storage API.
 
 ## Reports
+
+> Tools and utilities for working with reports in Business Central.
 
 ### **[Mini Report Inspector](https://github.com/AndreasRascher/MiniReportInspector)**
 
@@ -203,6 +220,8 @@ Excel the Dataset format known from the windows client as Excel File
 Getdata by name - custom code functions for Dynamics NAV and Business Central
 
 ## Webservices
+
+> Examples and tools for working with web services, APIs, and external integrations.
 
 ### **[Waldo.Restapp](https://github.com/waldo1001/waldo.restapp)**
 
@@ -228,6 +247,8 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 
 ## Powershell
 
+> PowerShell modules and scripts for Business Central automation and management.
+
 ### **[Cloudy Ready Software Powershell](https://github.com/waldo1001/Cloud.Ready.Software.PowerShell)**
 
 ![GitHub stars](https://img.shields.io/github/stars/waldo1001/Cloud.Ready.Software.PowerShell?style=social)
@@ -240,12 +261,16 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 
 ## Translations
 
+> Tools for managing multi-language support in Business Central.
+
 ### **[AL Translate Tool](https://github.com/peikba/AL-Translate-Tool)**
 
 ![GitHub stars](https://img.shields.io/github/stars/peikba/AL-Translate-Tool?style=social)
 > 🧑‍💻 By [Peik Bech-Andersen](https://github.com/peikba)
 
 ## Docker & DevOps
+
+> Resources for containerization, CI/CD pipelines, and DevOps practices.
 
 ### **[ALOPS](https://github.com/HodorNV/ALOps)**
 
@@ -264,6 +289,8 @@ Project Template for Microsoft Dynamics 365 Business Central
 
 ## Test Automation
 
+> Frameworks and examples for automated testing in Business Central.
+
 ### **[Test Automation Examples](https://github.com/fluxxus-nl/Test-Automation-Examples)**
 
 ![GitHub stars](https://img.shields.io/github/stars/fluxxus-nl/Test-Automation-Examples?style=social)
@@ -271,7 +298,16 @@ Project Template for Microsoft Dynamics 365 Business Central
 
 Collections of examples used in my test automation classes for Dynamics 365 Business Central and Dynamics NAV
 
+### **[ATDD.TestScriptor](https://github.com/fluxxus-nl/ATDD.TestScriptor)**
+
+![GitHub stars](https://img.shields.io/github/stars/fluxxus-nl/ATDD.TestScriptor?style=social)
+> 🧑‍💻 By [Jan Hoek](https://github.com/fluxxus-nl)
+
+A test framework for creating Feature-based tests using ATDD principles in Business Central.
+
 ## C/SIDE to AL
+
+> Tools for converting C/SIDE code to AL format.
 
 ### **[Uplifting](https://github.com/hougaard/Uplifting)**
 
@@ -281,6 +317,8 @@ Collections of examples used in my test automation classes for Dynamics 365 Busi
 Uplifting for Dynamics 365 Business Central C/Side to AL data conversion
 
 ## Upgrades
+
+> Resources and scripts for upgrading Business Central versions.
 
 ### **[BCUpgrade](https://github.com/microsoft/BCUpgrade)**
 
@@ -293,6 +331,8 @@ We will update the deck based on feedback / requests.
 Let's make the upgrade easy together.
 
 ## PDF Tools
+
+> Utilities for working with PDF files in Business Central.
 
 ### **[MergePDFFunctionApp](https://github.com/demiliani/MergePDFFunctionApp)**
 
@@ -324,6 +364,10 @@ Another PDF Viewer for Microsoft Dynamics 365 Business Central
 
 More info at this blog post: <https://vld-nav.com/bc-pdf-viewer-full>
 
+## Miscellaneous
+
+> Various useful tools and utilities that don't fit into other categories.
+
 ### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
 
 ![GitHub stars](https://img.shields.io/github/stars/TheDoubleH/BCALToolbox?style=social)
@@ -331,7 +375,9 @@ More info at this blog post: <https://vld-nav.com/bc-pdf-viewer-full>
 
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
-## Miscellaneous
+## Signatures
+
+> Tools for capturing and managing digital signatures in Business Central.
 
 ### **[Hand Written Signatures in AL](https://github.com/nocubicles/bc-handwritten-signatures)**
 
@@ -340,13 +386,60 @@ BCALToolbox is a collection of functions used when doing development in AL for M
 
 This example uses a signature pad in Business Central so you can save hand written signatures to documents inside Business Central.
 
-## Signatures
 
-### **[Hand Written Signatures in AL](https://github.com/nocubicles/bc-handwritten-signatures)**
+## Development Tools
 
-This example uses a signature pad in Business Central so you can save hand written signatures to documents inside Business Central.
+> Tools and extensions that improve the development experience.
+
+### **[AL Code Outline](https://github.com/anzwdev/al-code-outline)**
+
+![GitHub stars](https://img.shields.io/github/stars/anzwdev/al-code-outline?style=social)
+> 🧑‍💻 By [Andrzej Zwierzchowski](https://github.com/anzwdev)
+
+VS Code extension providing code outline, symbol browser, and various code generators for AL development.
+
+### **[AL Object Designer](https://github.com/martonsagi/al-object-designer)**
+
+![GitHub stars](https://img.shields.io/github/stars/martonsagi/al-object-designer?style=social)
+> 🧑‍💻 By [Márton Sági](https://github.com/martonsagi)
+
+Object Designer extension for VS Code, bringing back the familiar object browser experience to AL development.
+
+### **[AL Object ID Ninja](https://github.com/vjekob/al-objid)**
+
+![GitHub stars](https://img.shields.io/github/stars/vjekob/al-objid?style=social)
+> 🧑‍💻 By [Vjeko Begović](https://github.com/vjekob)
+
+VS Code extension for managing object IDs in AL projects, with support for object ID ranges and automatic assignment.
+
+### **[BusinessCentral.LinterCop](https://github.com/StefanMaron/BusinessCentral.LinterCop)**
+
+![GitHub stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.LinterCop?style=social)
+> 🧑‍💻 By [Stefan Maron](https://github.com/StefanMaron)
+
+Additional code analyzer for Business Central providing extra rules and best practice checks.
+
+### **[Waldo's CRS AL Language Extension](https://github.com/waldo1001/crs-al-language-extension)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/crs-al-language-extension?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+VS Code extension with productivity tools for AL development including snippets, reorganize functions, and more.
+
+## Security & Authentication
+
+> Tools and examples for implementing security and authentication.
+
+### **[BC OAuth 2.0 Authorization](https://github.com/msnraju/BC-OAuth-2.0-Authorization)**
+
+![GitHub stars](https://img.shields.io/github/stars/msnraju/BC-OAuth-2.0-Authorization?style=social)
+> 🧑‍💻 By [MSN Raju](https://github.com/msnraju)
+
+Implementation examples for OAuth 2.0 authorization in Business Central.
 
 ## Learning Resources
+
+> Educational resources, tutorials, and examples for learning Business Central development.
 
 ### **[Hougaard Youtube Video Sources](https://github.com/hougaard/Youtube-Video-Sources)**
 
@@ -441,3 +534,5 @@ Efficiently automate test cases in Dynamics NAV and Business Central.
 
 ![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Seventh-Edition?style=social)
 > 🧑‍💻 By [Packt Publishing](https://github.com/PacktPublishing)
+
+
