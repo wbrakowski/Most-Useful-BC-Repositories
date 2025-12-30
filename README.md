@@ -17,7 +17,14 @@
 - [🔄 C/SIDE to AL](#cside-to-al)
 - [⬆️ Upgrades](#upgrades)
 - [📄 PDF Tools](#pdf-tools)
-- [🔨 Miscellaneous](#miscellaneous)
+- [📦 Package & Extension Management](#package--extension-management)
+- [🤖 AI & Machine Learning](#ai--machine-learning)
+- [📡 Communication & Integration](#communication--integration)
+- [📚 Code Samples & Templates](#code-samples--templates)
+- [⚡ Performance & Monitoring](#performance--monitoring)
+- [📖 Libraries & Utilities](#libraries--utilities)
+- [🎬 Scripting & Automation](#scripting--automation)
+- [🔒 Data Privacy & Security](#data-privacy--security)
 - [✍️ Signatures](#signatures)
 - [🎨 UI/UX Extensions](#uiux-extensions)
 - [🛠️ Development Tools](#development-tools)
@@ -431,19 +438,23 @@ More info at this blog post: <https://vld-nav.com/bc-pdf-viewer-full>
 
 > Various useful tools and utilities that don't fit into other categories.
 
-### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
+### Package & Extension Management
 
-![GitHub stars](https://img.shields.io/github/stars/TheDoubleH/BCALToolbox?style=social)
-> 🧑‍💻 By [Henrik Helgesen](https://github.com/TheDoubleH)
+> Tools for managing packages, extensions, and deployments.
 
-BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
+### **[BCxMan](https://github.com/Theil-IT/bcxman)**
 
-### **[BC Performance Tool](https://github.com/waldo1001/waldo.BCPerfTool)**
+![GitHub stars](https://img.shields.io/github/stars/Theil-IT/bcxman?style=social)
+> 🧑‍💻 By [Theil IT](https://github.com/Theil-IT)
 
-![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCPerfTool?style=social)
-> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+Business Central Extension Manager - Tool for managing BC extensions.
 
-Performance testing tool for Business Central.
+### **[BC NuGet Uploader](https://github.com/AidentErfurt/bc-nuget-uploader)**
+
+![GitHub stars](https://img.shields.io/github/stars/AidentErfurt/bc-nuget-uploader?style=social)
+> 🧑‍💻 By [Aident Erfurt](https://github.com/AidentErfurt)
+
+Tool for uploading Business Central extensions to NuGet package repositories.
 
 ### **[CCMS - Continuous Code Management System](https://github.com/directions4partners/CCMS)**
 
@@ -451,6 +462,60 @@ Performance testing tool for Business Central.
 > 🧑‍💻 By [Directions4Partners](https://github.com/directions4partners)
 
 Continuous Code Management System for Business Central - Tool for managing code changes and deployments.
+
+## AI & Machine Learning
+
+> AI-powered tools and integrations for Business Central.
+
+### **[BC AI Reviewer](https://github.com/AidentErfurt/bc-ai-reviewer)**
+
+![GitHub stars](https://img.shields.io/github/stars/AidentErfurt/bc-ai-reviewer?style=social)
+> 🧑‍💻 By [Aident Erfurt](https://github.com/AidentErfurt)
+
+AI-powered code reviewer for Business Central AL code.
+
+### **[Suggest Payment Terms with AI](https://github.com/Drakonian/suggest-payment-terms-with-ai)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/suggest-payment-terms-with-ai?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+AI-powered payment terms suggestion tool for Business Central.
+
+## Communication & Integration
+
+> Tools for external communication and API integrations.
+
+### **[WhatsApp Business Cloud API](https://github.com/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API)**
+
+![GitHub stars](https://img.shields.io/github/stars/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API?style=social)
+> 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
+
+Integration with WhatsApp Business Cloud API for Business Central.
+
+### **[The Things Stack API](https://github.com/OpenBusinessCentralApps/The-Things-Stack-API)**
+
+![GitHub stars](https://img.shields.io/github/stars/OpenBusinessCentralApps/The-Things-Stack-API?style=social)
+> 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
+
+Integration with The Things Stack API for IoT applications in Business Central.
+
+### **[BeyondMailLog](https://github.com/byndit/BeyondMailLog)**
+
+![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondMailLog?style=social)
+> 🧑‍💻 By [Byndit](https://github.com/byndit)
+
+Enhanced email logging functionality for Business Central.
+
+### **[E-Invoice Viewer](https://github.com/byndit/E-Invoice-Viewer)**
+
+![GitHub stars](https://img.shields.io/github/stars/byndit/E-Invoice-Viewer?style=social)
+> 🧑‍💻 By [Byndit](https://github.com/byndit)
+
+Viewer for electronic invoices in Business Central.
+
+## Code Samples & Templates
+
+> Sample applications and templates for learning and reference.
 
 ### **[BC Samples - Take Order](https://github.com/microsoft/bcsamples-takeorder)**
 
@@ -480,12 +545,69 @@ Sample Business Central app demonstrating warehouse management functionality.
 
 Sample Business Central app demonstrating Bing Maps integration.
 
+### **[BC Samples - Bing Maps (AppSource)](https://github.com/microsoft/bcsamples-bingmaps.appsource)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-bingmaps.appsource?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating Bing Maps integration for AppSource.
+
+### **[BC Samples - Coffee Mixed Reality](https://github.com/microsoft/bcsamples-CoffeeMR)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-CoffeeMR?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating Mixed Reality integration with coffee shop scenario.
+
+## Performance & Monitoring
+
+> Tools for performance testing, optimization, and monitoring.
+
+### **[BC Performance Tool](https://github.com/waldo1001/waldo.BCPerfTool)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCPerfTool?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+Performance testing tool for Business Central.
+
 ### **[BC Telemetry](https://github.com/waldo1001/waldo.BCTelemetry)**
 
 ![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCTelemetry?style=social)
 > 🧑‍💻 By [waldo](https://github.com/waldo1001)
 
 PowerShell module for working with Business Central telemetry data.
+
+### **[BC Maximizer](https://github.com/mmilince/bc-maximizer)**
+
+![GitHub stars](https://img.shields.io/github/stars/mmilince/bc-maximizer?style=social)
+> 🧑‍💻 By [Milovan Milinčić](https://github.com/mmilince)
+
+Tool for maximizing Business Central performance and efficiency.
+
+## Libraries & Utilities
+
+> Reusable libraries, utilities, and components.
+
+### **[BC AL Toolbox](https://github.com/TheDoubleH/BCALToolbox)**
+
+![GitHub stars](https://img.shields.io/github/stars/TheDoubleH/BCALToolbox?style=social)
+> 🧑‍💻 By [Henrik Helgesen](https://github.com/TheDoubleH)
+
+BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
+
+### **[BC Standard Library](https://github.com/finnpedersenkazes/BC-Standard-Library)**
+
+![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Standard-Library?style=social)
+> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
+
+Standard library of commonly used functions and procedures for Business Central development.
+
+### **[BC Environment Interfaces](https://github.com/finnpedersenkazes/BC-Environment-Interfaces)**
+
+![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Environment-Interfaces?style=social)
+> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
+
+Interface definitions for Business Central environment management.
 
 ### **[OpenFeature for AL](https://github.com/thetanz/OpenFeature-al)**
 
@@ -501,47 +623,23 @@ OpenFeature implementation for Business Central AL, enabling feature flag manage
 
 Visual components and controls for Business Central.
 
-### **[API Object Generator (JSON/XML)](https://github.com/Drakonian/api_object_generator_json_xml)**
+### **[BC Basic Subscription](https://github.com/finnpedersenkazes/BC-Basic-Subscription)**
 
-![GitHub stars](https://img.shields.io/github/stars/Drakonian/api_object_generator_json_xml?style=social)
-> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Basic-Subscription?style=social)
+> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
 
-Tool for generating API objects from JSON/XML structures for Business Central.
+Basic subscription management functionality for Business Central.
 
-### **[BCxMan](https://github.com/Theil-IT/bcxman)**
+### **[Business Central Apps](https://github.com/walter75-Consulting/Business-Central-Apps)**
 
-![GitHub stars](https://img.shields.io/github/stars/Theil-IT/bcxman?style=social)
-> 🧑‍💻 By [Theil IT](https://github.com/Theil-IT)
+![GitHub stars](https://img.shields.io/github/stars/walter75-Consulting/Business-Central-Apps?style=social)
+> 🧑‍💻 By [Walter75 Consulting](https://github.com/walter75-Consulting)
 
-Business Central Extension Manager - Tool for managing BC extensions.
+Collection of Business Central applications and extensions.
 
-### **[BC Samples - Bing Maps (AppSource)](https://github.com/microsoft/bcsamples-bingmaps.appsource)**
+## Scripting & Automation
 
-![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-bingmaps.appsource?style=social)
-> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
-
-Sample Business Central app demonstrating Bing Maps integration for AppSource.
-
-### **[BC AI Reviewer](https://github.com/AidentErfurt/bc-ai-reviewer)**
-
-![GitHub stars](https://img.shields.io/github/stars/AidentErfurt/bc-ai-reviewer?style=social)
-> 🧑‍💻 By [Aident Erfurt](https://github.com/AidentErfurt)
-
-AI-powered code reviewer for Business Central AL code.
-
-### **[WhatsApp Business Cloud API](https://github.com/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API)**
-
-![GitHub stars](https://img.shields.io/github/stars/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API?style=social)
-> 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
-
-Integration with WhatsApp Business Cloud API for Business Central.
-
-### **[The Things Stack API](https://github.com/OpenBusinessCentralApps/The-Things-Stack-API)**
-
-![GitHub stars](https://img.shields.io/github/stars/OpenBusinessCentralApps/The-Things-Stack-API?style=social)
-> 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
-
-Integration with The Things Stack API for IoT applications in Business Central.
+> Tools for scripting, automation, and workflow enhancement.
 
 ### **[Vibe Page Scripting](https://github.com/andywingate/D365BC-vibe-page-scripting)**
 
@@ -550,54 +648,16 @@ Integration with The Things Stack API for IoT applications in Business Central.
 
 Page scripting capabilities for Business Central using Vibe.
 
-### **[BC Maximizer](https://github.com/mmilince/bc-maximizer)**
+## Data Privacy & Security
 
-![GitHub stars](https://img.shields.io/github/stars/mmilince/bc-maximizer?style=social)
-> 🧑‍💻 By [Milovan Milinčić](https://github.com/mmilince)
+> Tools for data privacy, anonymization, and security.
 
-Tool for maximizing Business Central performance and efficiency.
+### **[BeyondAnonymizer](https://github.com/byndit/BeyondAnonymizer)**
 
-### **[BeyondAL](https://github.com/byndit/BeyondAL)**
-
-![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondAL?style=social)
+![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondAnonymizer?style=social)
 > 🧑‍💻 By [Byndit](https://github.com/byndit)
 
-Advanced AL development tools and utilities.
-
-### **[BC Samples - Coffee Mixed Reality](https://github.com/microsoft/bcsamples-CoffeeMR)**
-
-![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-CoffeeMR?style=social)
-> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
-
-Sample Business Central app demonstrating Mixed Reality integration with coffee shop scenario.
-
-### **[BeyondMailLog](https://github.com/byndit/BeyondMailLog)**
-
-![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondMailLog?style=social)
-> 🧑‍💻 By [Byndit](https://github.com/byndit)
-
-Enhanced email logging functionality for Business Central.
-
-### **[Suggest Payment Terms with AI](https://github.com/Drakonian/suggest-payment-terms-with-ai)**
-
-![GitHub stars](https://img.shields.io/github/stars/Drakonian/suggest-payment-terms-with-ai?style=social)
-> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
-
-AI-powered payment terms suggestion tool for Business Central.
-
-### **[BC Standard Library](https://github.com/finnpedersenkazes/BC-Standard-Library)**
-
-![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Standard-Library?style=social)
-> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
-
-Standard library of commonly used functions and procedures for Business Central development.
-
-### **[BC Environment Interfaces](https://github.com/finnpedersenkazes/BC-Environment-Interfaces)**
-
-![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Environment-Interfaces?style=social)
-> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
-
-Interface definitions for Business Central environment management.
+Data anonymization tool for Business Central to protect sensitive information in test environments.
 
 ## Signatures
 
