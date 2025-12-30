@@ -761,7 +761,8 @@ VS Code extension for viewing Business Central telemetry data.
 ![GitHub stars](https://img.shields.io/github/stars/wbrakowski/AL-Navigator?style=social)
 > 🧑‍💻 By [Waldemar Brakowski](https://github.com/wbrakowski)
 
-Navigation tool for AL code in Business Central development.
+Create variables and parameters like a pro. Automatically select/insert startup object IDs in your launch.json file. Effortlessly navigate through AL files with intuitive shortcuts. 
+Translate fields on hover and streamline report copying – all in one powerful extension.
 
 ### **[BeyondAL](https://github.com/byndit/BeyondAL)**
 
