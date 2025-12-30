@@ -756,6 +756,34 @@ VS Code extension pack with useful extensions for AL development.
 
 VS Code extension for viewing Business Central telemetry data.
 
+### **[AL Navigator](https://github.com/wbrakowski/AL-Navigator)**
+
+![GitHub stars](https://img.shields.io/github/stars/wbrakowski/AL-Navigator?style=social)
+> 🧑‍💻 By [Waldemar Brakowski](https://github.com/wbrakowski)
+
+Navigation tool for AL code in Business Central development.
+
+### **[BeyondAL](https://github.com/byndit/BeyondAL)**
+
+![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondAL?style=social)
+> 🧑‍💻 By [Byndit](https://github.com/byndit)
+
+Advanced AL development tools and utilities.
+
+### **[API Object Generator (JSON/XML)](https://github.com/Drakonian/api_object_generator_json_xml)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/api_object_generator_json_xml?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+Tool for generating API objects from JSON/XML structures for Business Central.
+
+### **[BC Dev Toolset](https://github.com/dam-pav/BC-Dev-Toolset)**
+
+![GitHub stars](https://img.shields.io/github/stars/dam-pav/BC-Dev-Toolset?style=social)
+> 🧑‍💻 By [Damien Pavlov](https://github.com/dam-pav)
+
+Collection of development tools and utilities for Business Central developers.
+
 ## Security & Authentication
 
 > Tools and examples for implementing security and authentication.
