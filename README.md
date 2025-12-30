@@ -197,6 +197,20 @@ Gordon ecosystem is a set of tools that helps you easily manage Business Central
 
 Open Source App for Microsoft Dynamics 365 Business Central to implement the Azure Blob Storage API.
 
+### **[BC to ADLS](https://github.com/Bertverbeek4PS/bc2adls)**
+
+![GitHub stars](https://img.shields.io/github/stars/Bertverbeek4PS/bc2adls?style=social)
+> 🧑‍💻 By [Bert Verbeek](https://github.com/Bertverbeek4PS)
+
+BC to Azure Data Lake Storage - Export Business Central data to Azure Data Lake Storage.
+
+### **[NAV ARM Templates](https://github.com/microsoft/nav-arm-templates)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/nav-arm-templates?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Azure Resource Manager templates for deploying Business Central.
+
 ## Reports
 
 > Tools and utilities for working with reports in Business Central.
@@ -267,6 +281,13 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 
 ![GitHub stars](https://img.shields.io/github/stars/peikba/AL-Translate-Tool?style=social)
 > 🧑‍💻 By [Peik Bech-Andersen](https://github.com/peikba)
+
+### **[XLIFF Sync](https://github.com/rvanbekkum/vsc-xliff-sync)**
+
+![GitHub stars](https://img.shields.io/github/stars/rvanbekkum/vsc-xliff-sync?style=social)
+> 🧑‍💻 By [Roel van Bekkum](https://github.com/rvanbekkum)
+
+VS Code extension for synchronizing XLIFF translation files in Business Central projects.
 
 ## Docker & DevOps
 
@@ -375,6 +396,62 @@ More info at this blog post: <https://vld-nav.com/bc-pdf-viewer-full>
 
 BCALToolbox is a collection of functions used when doing development in AL for Microsoft 365 Business Central
 
+### **[BC Performance Tool](https://github.com/waldo1001/waldo.BCPerfTool)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCPerfTool?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+Performance testing tool for Business Central.
+
+### **[CCMS - Continuous Code Management System](https://github.com/directions4partners/CCMS)**
+
+![GitHub stars](https://img.shields.io/github/stars/directions4partners/CCMS?style=social)
+> 🧑‍💻 By [Directions4Partners](https://github.com/directions4partners)
+
+Continuous Code Management System for Business Central - Tool for managing code changes and deployments.
+
+### **[BC Samples - Take Order](https://github.com/microsoft/bcsamples-takeorder)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-takeorder?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating best practices for app development.
+
+### **[BC Samples - Onboarding](https://github.com/microsoft/bcsamples-onboarding)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-onboarding?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating onboarding functionality.
+
+### **[BC Samples - Warehouse Helper](https://github.com/microsoft/bcsamples-warehousehelper)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-warehousehelper?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating warehouse management functionality.
+
+### **[BC Samples - Bing Maps](https://github.com/microsoft/bcsamples-bingmaps.pte)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-bingmaps.pte?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating Bing Maps integration.
+
+### **[BC Telemetry](https://github.com/waldo1001/waldo.BCTelemetry)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCTelemetry?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+PowerShell module for working with Business Central telemetry data.
+
+### **[OpenFeature for AL](https://github.com/thetanz/OpenFeature-al)**
+
+![GitHub stars](https://img.shields.io/github/stars/thetanz/OpenFeature-al?style=social)
+> 🧑‍💻 By [Tan Nguyen](https://github.com/thetanz)
+
+OpenFeature implementation for Business Central AL, enabling feature flag management.
+
 ## Signatures
 
 > Tools for capturing and managing digital signatures in Business Central.
@@ -425,6 +502,13 @@ Additional code analyzer for Business Central providing extra rules and best pra
 > 🧑‍💻 By [waldo](https://github.com/waldo1001)
 
 VS Code extension with productivity tools for AL development including snippets, reorganize functions, and more.
+
+### **[NAB AL Tools](https://github.com/jwikman/nab-al-tools)**
+
+![GitHub stars](https://img.shields.io/github/stars/jwikman/nab-al-tools?style=social)
+> 🧑‍💻 By [Johan Wikman](https://github.com/jwikman)
+
+VS Code extension with various tools for AL development including XLIFF translation support, code actions, and more.
 
 ## Security & Authentication
 
