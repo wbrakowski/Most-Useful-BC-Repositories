@@ -154,6 +154,13 @@ It focuses on the analysis of technical configuration and may include functional
 This app provides real-time insights, proactive alerts, and actionable recommendations to enhance operational efficiency, reduce risks, and optimize decision-making. BusinessCentral.
 Sentinel acts as a vigilant 'sentinel' for your business, ensuring key processes run smoothly and critical issues are addressed promptly.
 
+### **[BC Telemetry Event IDs](https://github.com/frottke/bc-telemetry-event-ids)**
+
+![GitHub stars](https://img.shields.io/github/stars/frottke/bc-telemetry-event-ids?style=social)
+> 🧑‍💻 By [Florian Rottke](https://github.com/frottke)
+
+Comprehensive list and documentation of Business Central telemetry event IDs for monitoring and troubleshooting.
+
 ## Administrative Tools
 
 > Tools for managing data, licenses, and administrative tasks in Business Central.
@@ -185,6 +192,13 @@ The Admin Toolbox is a Business central App. It can delete and edit records, vie
 > 🧑‍💻 By [EOS Solutions](https://github.com/EOS-Solutions)
 
 Gordon ecosystem is a set of tools that helps you easily manage Business Central environments: Manage Apps, BC Services, Docker Environments, XLIFF Translations
+
+### **[Table Editor](https://github.com/wbrakowski/Table-Editor)**
+
+![GitHub stars](https://img.shields.io/github/stars/wbrakowski/Table-Editor?style=social)
+> 🧑‍💻 By [Waldemar Brakowski](https://github.com/wbrakowski)
+
+Advanced table editor for Business Central allowing efficient data manipulation.
 
 ## Azure
 
@@ -232,6 +246,13 @@ Excel the Dataset format known from the windows client as Excel File
 > 🧑‍💻 By [Andreas Rascher](https://github.com/AndreasRascher)
 
 Getdata by name - custom code functions for Dynamics NAV and Business Central
+
+### **[Report Overview](https://github.com/wbrakowski/Report-Overview)**
+
+![GitHub stars](https://img.shields.io/github/stars/wbrakowski/Report-Overview?style=social)
+> 🧑‍💻 By [Waldemar Brakowski](https://github.com/wbrakowski)
+
+Overview and management tool for reports in Business Central.
 
 ## Webservices
 
@@ -514,6 +535,69 @@ AI-powered code reviewer for Business Central AL code.
 > 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
 
 Integration with WhatsApp Business Cloud API for Business Central.
+
+### **[The Things Stack API](https://github.com/OpenBusinessCentralApps/The-Things-Stack-API)**
+
+![GitHub stars](https://img.shields.io/github/stars/OpenBusinessCentralApps/The-Things-Stack-API?style=social)
+> 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
+
+Integration with The Things Stack API for IoT applications in Business Central.
+
+### **[Vibe Page Scripting](https://github.com/andywingate/D365BC-vibe-page-scripting)**
+
+![GitHub stars](https://img.shields.io/github/stars/andywingate/D365BC-vibe-page-scripting?style=social)
+> 🧑‍💻 By [Andy Wingate](https://github.com/andywingate)
+
+Page scripting capabilities for Business Central using Vibe.
+
+### **[BC Maximizer](https://github.com/mmilince/bc-maximizer)**
+
+![GitHub stars](https://img.shields.io/github/stars/mmilince/bc-maximizer?style=social)
+> 🧑‍💻 By [Milovan Milinčić](https://github.com/mmilince)
+
+Tool for maximizing Business Central performance and efficiency.
+
+### **[BeyondAL](https://github.com/byndit/BeyondAL)**
+
+![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondAL?style=social)
+> 🧑‍💻 By [Byndit](https://github.com/byndit)
+
+Advanced AL development tools and utilities.
+
+### **[BC Samples - Coffee Mixed Reality](https://github.com/microsoft/bcsamples-CoffeeMR)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-CoffeeMR?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating Mixed Reality integration with coffee shop scenario.
+
+### **[BeyondMailLog](https://github.com/byndit/BeyondMailLog)**
+
+![GitHub stars](https://img.shields.io/github/stars/byndit/BeyondMailLog?style=social)
+> 🧑‍💻 By [Byndit](https://github.com/byndit)
+
+Enhanced email logging functionality for Business Central.
+
+### **[Suggest Payment Terms with AI](https://github.com/Drakonian/suggest-payment-terms-with-ai)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/suggest-payment-terms-with-ai?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+AI-powered payment terms suggestion tool for Business Central.
+
+### **[BC Standard Library](https://github.com/finnpedersenkazes/BC-Standard-Library)**
+
+![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Standard-Library?style=social)
+> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
+
+Standard library of commonly used functions and procedures for Business Central development.
+
+### **[BC Environment Interfaces](https://github.com/finnpedersenkazes/BC-Environment-Interfaces)**
+
+![GitHub stars](https://img.shields.io/github/stars/finnpedersenkazes/BC-Environment-Interfaces?style=social)
+> 🧑‍💻 By [Finn Pedersen](https://github.com/finnpedersenkazes)
+
+Interface definitions for Business Central environment management.
 
 ## Signatures
 
