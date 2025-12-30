@@ -259,6 +259,13 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 ![GitHub stars](https://img.shields.io/github/stars/ajkauffmann/BC.API.Postman?style=social)
 > 🧑‍💻 By [AJ Kauffmann](https://github.com/ajkauffmann)
 
+### **[REST Client OAuth](https://github.com/ajkauffmann/RestClientOAuth)**
+
+![GitHub stars](https://img.shields.io/github/stars/ajkauffmann/RestClientOAuth?style=social)
+> 🧑‍💻 By [AJ Kauffmann](https://github.com/ajkauffmann)
+
+REST client with OAuth authentication for Business Central.
+
 ## Powershell
 
 > PowerShell modules and scripts for Business Central automation and management.
@@ -288,6 +295,13 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 > 🧑‍💻 By [Roel van Bekkum](https://github.com/rvanbekkum)
 
 VS Code extension for synchronizing XLIFF translation files in Business Central projects.
+
+### **[PowerShell XLIFF Sync](https://github.com/rvanbekkum/ps-xliff-sync)**
+
+![GitHub stars](https://img.shields.io/github/stars/rvanbekkum/ps-xliff-sync?style=social)
+> 🧑‍💻 By [Roel van Bekkum](https://github.com/rvanbekkum)
+
+PowerShell module for synchronizing XLIFF translation files in Business Central projects.
 
 ## Docker & DevOps
 
@@ -376,6 +390,13 @@ PDF Viewer for Microsoft Dynamics 365 Business Central
 
 More info at this blog post: <https://www.kauffmann.nl/2019/01/22/pdf-viewer-in-business-central/>
 
+### **[PDF Viewer (Drakonian)](https://github.com/Drakonian/bc-pdf-viewer)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/bc-pdf-viewer?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+PDF Viewer for Microsoft Dynamics 365 Business Central.
+
 ### **[PDF Viewer - 2](https://github.com/Drakonian/bc-pdf-viewer-full)**
 
 ![GitHub stars](https://img.shields.io/github/stars/Drakonian/bc-pdf-viewer-full?style=social)
@@ -452,6 +473,48 @@ PowerShell module for working with Business Central telemetry data.
 
 OpenFeature implementation for Business Central AL, enabling feature flag management.
 
+### **[BC Visuals](https://github.com/adrogin/BCVisuals)**
+
+![GitHub stars](https://img.shields.io/github/stars/adrogin/BCVisuals?style=social)
+> 🧑‍💻 By [Andrey Drogin](https://github.com/adrogin)
+
+Visual components and controls for Business Central.
+
+### **[API Object Generator (JSON/XML)](https://github.com/Drakonian/api_object_generator_json_xml)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/api_object_generator_json_xml?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+Tool for generating API objects from JSON/XML structures for Business Central.
+
+### **[BCxMan](https://github.com/Theil-IT/bcxman)**
+
+![GitHub stars](https://img.shields.io/github/stars/Theil-IT/bcxman?style=social)
+> 🧑‍💻 By [Theil IT](https://github.com/Theil-IT)
+
+Business Central Extension Manager - Tool for managing BC extensions.
+
+### **[BC Samples - Bing Maps (AppSource)](https://github.com/microsoft/bcsamples-bingmaps.appsource)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/bcsamples-bingmaps.appsource?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Sample Business Central app demonstrating Bing Maps integration for AppSource.
+
+### **[BC AI Reviewer](https://github.com/AidentErfurt/bc-ai-reviewer)**
+
+![GitHub stars](https://img.shields.io/github/stars/AidentErfurt/bc-ai-reviewer?style=social)
+> 🧑‍💻 By [Aident Erfurt](https://github.com/AidentErfurt)
+
+AI-powered code reviewer for Business Central AL code.
+
+### **[WhatsApp Business Cloud API](https://github.com/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API)**
+
+![GitHub stars](https://img.shields.io/github/stars/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API?style=social)
+> 🧑‍💻 By [Open Business Central Apps](https://github.com/OpenBusinessCentralApps)
+
+Integration with WhatsApp Business Cloud API for Business Central.
+
 ## Signatures
 
 > Tools for capturing and managing digital signatures in Business Central.
@@ -463,6 +526,24 @@ OpenFeature implementation for Business Central AL, enabling feature flag manage
 
 This example uses a signature pad in Business Central so you can save hand written signatures to documents inside Business Central.
 
+
+## UI/UX Extensions
+
+> Extensions that enhance the user interface and user experience.
+
+### **[Drag and Drop FactBox](https://github.com/Drakonian/drag-and-drop-factbox)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/drag-and-drop-factbox?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+Enables drag and drop functionality for FactBoxes in Business Central.
+
+### **[Summernote WYSIWYG Editor](https://github.com/Drakonian/summernote-wysiwyg-bc)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/summernote-wysiwyg-bc?style=social)
+> 🧑‍💻 By [Drakonian](https://github.com/Drakonian)
+
+WYSIWYG editor integration using Summernote for Business Central.
 
 ## Development Tools
 
@@ -509,6 +590,27 @@ VS Code extension with productivity tools for AL development including snippets,
 > 🧑‍💻 By [Johan Wikman](https://github.com/jwikman)
 
 VS Code extension with various tools for AL development including XLIFF translation support, code actions, and more.
+
+### **[AL Test Runner](https://github.com/jimmymcp/al-test-runner)**
+
+![GitHub stars](https://img.shields.io/github/stars/jimmymcp/al-test-runner?style=social)
+> 🧑‍💻 By [James Pearson](https://github.com/jimmymcp)
+
+VS Code extension for running AL tests and viewing results directly in the editor.
+
+### **[AL Extension Pack](https://github.com/waldo1001/ALExtensionPack)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/ALExtensionPack?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+VS Code extension pack with useful extensions for AL development.
+
+### **[BC Telemetry Buddy](https://github.com/waldo1001/waldo.BCTelemetryBuddy)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCTelemetryBuddy?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+VS Code extension for viewing Business Central telemetry data.
 
 ## Security & Authentication
 
