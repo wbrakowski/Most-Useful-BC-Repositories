@@ -559,6 +559,13 @@ Sample Business Central app demonstrating Bing Maps integration for AppSource.
 
 Sample Business Central app demonstrating Mixed Reality integration with coffee shop scenario.
 
+### **[BC Clipboard](https://github.com/jimmymcp/bc-clipboard)**
+
+![GitHub stars](https://img.shields.io/github/stars/jimmymcp/bc-clipboard?style=social)
+> 🧑‍💻 By [James Pearson](https://github.com/jimmymcp)
+
+Sample demonstrating how to access the clipboard from Business Central using JavaScript in the WebPageViewer control add-in.
+
 ## Performance & Monitoring
 
 > Tools for performance testing, optimization, and monitoring.
