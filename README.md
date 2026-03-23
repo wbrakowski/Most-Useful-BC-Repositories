@@ -644,6 +644,13 @@ Basic subscription management functionality for Business Central.
 
 Collection of Business Central applications and extensions.
 
+### **[Parallel Worker for BC](https://github.com/Drakonian/parallel-worker-bc)**
+
+![GitHub stars](https://img.shields.io/github/stars/Drakonian/parallel-worker-bc?style=social)
+> 🧑‍💻 By [Volodymyr Dvernytskyi](https://github.com/Drakonian)
+
+An AL library for parallel processing in Business Central. Split work into chunks, run them across multiple background sessions via StartSession, and collect results — with built-in error handling, timeout control, and dead session recovery.
+
 ## Scripting & Automation
 
 > Tools for scripting, automation, and workflow enhancement.
