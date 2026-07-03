@@ -142,15 +142,6 @@ Quality skills and knowledge for Business Central development.
 
 BCQuality is a curated knowledge base and skills library for Business Central. It provides structured, machine-readable guidance that development agents and tools can consume — establishing a consistent quality bar across tooling and teams.
 
-### **[BC Prompt Kit](https://github.com/thatnavguy/BC-Prompt-Kit)**
-
-![GitHub stars](https://img.shields.io/github/stars/thatnavguy/BC-Prompt-Kit?style=social)
-> 🧑‍💻 By [thatnavguy](https://github.com/thatnavguy)
-
-A beginner-friendly collection of AI prompts for Microsoft Dynamics 365 Business Central and AL language development. These prompts help you leverage AI tools like GitHub Copilot to write better code faster.
-
-Whether you're new to AI-assisted development or looking for practical prompts to improve your workflow, this kit provides what AI can do, from generating AL code snippets to streamlining consultant documentation. I hope it gives you an idea on how to start your AI journey.
-
 ## Informational
 
 > Resources for tracking BC code changes, analyzing dependencies, and monitoring your environment.
@@ -505,6 +496,15 @@ AI-powered payment terms suggestion tool for Business Central.
 > 🧑‍💻 By [fernandoartalf](https://github.com/fernandoartalf)
 
 Install a collection of purpose-built AI coding assistant skills for Business Central AL development — with a single command.
+
+### **[BC Prompt Kit](https://github.com/thatnavguy/BC-Prompt-Kit)**
+
+![GitHub stars](https://img.shields.io/github/stars/thatnavguy/BC-Prompt-Kit?style=social)
+> 🧑‍💻 By [thatnavguy](https://github.com/thatnavguy)
+
+A beginner-friendly collection of AI prompts for Microsoft Dynamics 365 Business Central and AL language development. These prompts help you leverage AI tools like GitHub Copilot to write better code faster.
+
+Whether you're new to AI-assisted development or looking for practical prompts to improve your workflow, this kit provides what AI can do, from generating AL code snippets to streamlining consultant documentation. I hope it gives you an idea on how to start your AI journey.
 
 ## Communication & Integration
 
