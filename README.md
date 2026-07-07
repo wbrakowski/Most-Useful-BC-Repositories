@@ -133,6 +133,15 @@ We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
 
+### **[BCQuality](https://github.com/microsoft/BCQuality)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/BCQuality?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+Quality skills and knowledge for Business Central development.
+
+BCQuality is a curated knowledge base and skills library for Business Central. It provides structured, machine-readable guidance that development agents and tools can consume — establishing a consistent quality bar across tooling and teams.
+
 ## Informational
 
 > Resources for tracking BC code changes, analyzing dependencies, and monitoring your environment.
@@ -481,6 +490,22 @@ AI-powered code reviewer for Business Central AL code.
 
 AI-powered payment terms suggestion tool for Business Central.
 
+### **[AL Copilot Skills Collection](https://github.com/fernandoartalf/AL-Copilot-Skills-Collection)**
+
+![GitHub stars](https://img.shields.io/github/stars/fernandoartalf/AL-Copilot-Skills-Collection?style=social)
+> 🧑‍💻 By [fernandoartalf](https://github.com/fernandoartalf)
+
+Install a collection of purpose-built AI coding assistant skills for Business Central AL development — with a single command.
+
+### **[BC Prompt Kit](https://github.com/thatnavguy/BC-Prompt-Kit)**
+
+![GitHub stars](https://img.shields.io/github/stars/thatnavguy/BC-Prompt-Kit?style=social)
+> 🧑‍💻 By [thatnavguy](https://github.com/thatnavguy)
+
+A beginner-friendly collection of AI prompts for Microsoft Dynamics 365 Business Central and AL language development. These prompts help you leverage AI tools like GitHub Copilot to write better code faster.
+
+Whether you're new to AI-assisted development or looking for practical prompts to improve your workflow, this kit provides what AI can do, from generating AL code snippets to streamlining consultant documentation. I hope it gives you an idea on how to start your AI journey.
+
 ## Communication & Integration
 
 > Tools for external communication and API integrations.
@@ -798,6 +823,14 @@ Tool for generating API objects from JSON/XML structures for Business Central.
 > 🧑‍💻 By [Damien Pavlov](https://github.com/dam-pav)
 
 Collection of development tools and utilities for Business Central developers.
+
+### **[BC Object Designer](https://github.com/taher-el-mehdi/bc-object-designer)**
+
+![GitHub stars](https://img.shields.io/github/stars/taher-el-mehdi/bc-object-designer?style=social)
+> 🧑‍💻 By [taher-el-mehdi](https://github.com/taher-el-mehdi)
+
+Fast, browser-based explorer for Microsoft Dynamics 365 Business Central .app packages.
+Browse objects, view source code, and visualize relationships — all in your browser, no backend required.
 
 ## Security & Authentication
 
