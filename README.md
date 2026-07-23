@@ -296,6 +296,15 @@ AL code examples to call web services with Dynamics 365 for Financials and Opera
 ![GitHub stars](https://img.shields.io/github/stars/ajkauffmann/BC.API.Postman?style=social)
 > 🧑‍💻 By [AJ Kauffmann](https://github.com/ajkauffmann)
 
+### **[Business Central Standard API v2.0 - Postman Collection](https://github.com/jeffreybulanadi/postman-api-v2)**
+
+![GitHub stars](https://img.shields.io/github/stars/jeffreybulanadi/postman-api-v2?style=social)
+> 🧑‍💻 By [Jeffrey Bulanadi](https://github.com/jeffreybulanadi)
+
+A ready-to-use Postman collection containing 401 requests for the Dynamics 365 Business Central standard API v2.0. This collection covers the full breadth of the BC API surface including companies, customers, vendors, items, sales, purchases, finance, dimensions, HR, fixed assets, projects, taxes, and webhooks. It is intended for BC developers, consultants, and administrators who need to integrate with or test the Business Central API.
+
+Resources are organized alphabetically, matching the official Microsoft Docs TOC, so folder names and order in Postman line up directly with the reference documentation.
+
 ### **[REST Client OAuth](https://github.com/ajkauffmann/RestClientOAuth)**
 
 ![GitHub stars](https://img.shields.io/github/stars/ajkauffmann/RestClientOAuth?style=social)
