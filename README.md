@@ -517,7 +517,7 @@ Whether you're new to AI-assisted development or looking for practical prompts t
 
 ### **[BC Bench](https://github.com/microsoft/BC-Bench)**
 
-![GitHub stars](https://img.shields.io/github/microsoft/BC-Bench?style=social)
+![GitHub stars](https://img.shields.io/github/stars/microsoft/BC-Bench?style=social)
 > 🧑‍💻 By [Microsoft](https://github.com/microsoft)
 
 A benchmark for evaluating coding agents on real-world Business Central (AL) development tasks, inspired by SWE-Bench.
