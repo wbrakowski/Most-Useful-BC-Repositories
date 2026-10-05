@@ -515,6 +515,13 @@ A beginner-friendly collection of AI prompts for Microsoft Dynamics 365 Business
 
 Whether you're new to AI-assisted development or looking for practical prompts to improve your workflow, this kit provides what AI can do, from generating AL code snippets to streamlining consultant documentation. I hope it gives you an idea on how to start your AI journey.
 
+### **[BC Bench](https://github.com/microsoft/BC-Bench)**
+
+![GitHub stars](https://img.shields.io/github/stars/microsoft/BC-Bench?style=social)
+> 🧑‍💻 By [Microsoft](https://github.com/microsoft)
+
+A benchmark for evaluating coding agents on real-world Business Central (AL) development tasks, inspired by SWE-Bench.
+
 ## Communication & Integration
 
 > Tools for external communication and API integrations.
