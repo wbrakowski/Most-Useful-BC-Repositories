@@ -522,6 +522,13 @@ Whether you're new to AI-assisted development or looking for practical prompts t
 
 A benchmark for evaluating coding agents on real-world Business Central (AL) development tasks, inspired by SWE-Bench.
 
+### **[BC Observatory](https://github.com/waldo1001/waldo.BCObservatory)**
+
+![GitHub stars](https://img.shields.io/github/stars/waldo1001/waldo.BCObservatory?style=social)
+> 🧑‍💻 By [waldo](https://github.com/waldo1001)
+
+An outside-the-box way to see all of Microsoft Dynamics 365 Business Central at once: official docs, source code, Microsoft's guidelines, YouTube sessions and community blogs, woven into one cross-referenced knowledge base that AI agents can use as a source of truth and humans can travel through like a galaxy.
+
 ## Communication & Integration
 
 > Tools for external communication and API integrations.
@@ -847,6 +854,115 @@ Collection of development tools and utilities for Business Central developers.
 
 Fast, browser-based explorer for Microsoft Dynamics 365 Business Central .app packages.
 Browse objects, view source code, and visualize relationships — all in your browser, no backend required.
+
+## AL Development Tools
+
+> Better tools for Business Central developers. Open source, built by people who use them every day. Business Central development deserves better tooling than it has. Fast tests. Real language analysis. Editors that understand AL. Profilers that point at the actual problem. Some of that means building things that did not exist yet. Some of it means finding out that a limit everyone works around was only ever an assumption. These are the tools that came out of that. Built by Stefan Maron and Torben Leth, with contributions from the Business Central community. Issues and pull requests are welcome on any repository. Site - https://aldev.tools/.
+
+### **[Business Central AL Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/BusinessCentral.AL.Runner?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+Run Business Central AL tests without a service tier, Docker, SQL Server or license.
+
+### **[Business Central AL Language Tests](https://github.com/aldevtools/BusinessCentral.AL.Language.Tests)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/BusinessCentral.AL.Language.Tests?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+An executable specification of AL, checked against a real Business Central service tier on every push.
+
+### **[MsDyn365Bc On Linux](https://github.com/aldevtools/MsDyn365Bc.On.Linux)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/MsDyn365Bc.On.Linux?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+Business Central running on Linux with Docker Compose.
+
+### **[BusinessCentral DbReader](https://github.com/StefanMaron/BusinessCentral.DbReader)**
+
+![GitHub stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.DbReader?style=social)
+> 🧑‍💻 By [Stefan Maron](https://github.com/StefanMaron)
+
+Read Business Central data from a SQL Server backup or a cloud export, without SQL Server.
+
+### **[AL-Go fork](https://github.com/aldevtools/AL-Go)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/AL-Go?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+A fork of Microsoft's AL-Go for GitHub, kept mergeable with upstream, that adds a Linux fast lane — pull request builds compile from source and run AL unit tests on Ubuntu, no Windows container.
+
+### **[AL-Go Actions fork](https://github.com/aldevtools/AL-Go-Actions)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/AL-Go-Actions?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+This repository contains a set of GitHub actions used by the AL-Go for GitHub templates.
+
+### **[AL-Go PTE](https://github.com/aldevtools/AL-Go-PTE)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/AL-Go-PTE?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+This template repository can be used for managing Per-tenant Extensions (PTEs) for Business Central.
+
+### **[AL-Go AppSource](https://github.com/aldevtools/AL-Go-AppSource)**
+
+![GitHub stars](https://img.shields.io/github/stars/aldevtools/AL-Go-AppSource?style=social)
+> 🧑‍💻 By [aldevtools](https://github.com/aldevtools)
+
+This template repository can be used for managing AppSource Apps for Business Central.
+
+### **[Tree Sitter AL](https://github.com/SShadowS/tree-sitter-al)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/tree-sitter-al?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+A tree-sitter parser for the AL programming language used in Microsoft Dynamics 365 Business Central.
+
+### **[AL Sem](https://github.com/SShadowS/al-sem)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/al-sem?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+Static analysis for Business Central AL that understands your whole solution — your workspace and every extension in your .alpackages — as one program. It finds the performance and transaction bugs your customers report, and it answers "who calls this?" and "what breaks if I change this?" across app boundaries.
+
+### **[Leth AL](https://github.com/SShadowS/LethAL)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/LethAL?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+Mutation testing for Microsoft Dynamics 365 Business Central AL code. It tells you which of your AL tests actually catch bugs.
+
+### **[AL Perf](https://github.com/SShadowS/al-perf)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/al-perf?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+Turn a Business Central performance profile into a list of things to fix.
+
+### **[ALchemist](https://github.com/SShadowS/ALchemist)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/ALchemist?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+Live execution and inline feedback for AL (Business Central) — like Quokka.js but for AL.
+
+### **[AL LSP for Agents](https://github.com/SShadowS/al-lsp-for-agents)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/al-lsp-for-agents?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+AL Language Server wrappers for AI-powered Business Central development. Works with Claude Code, OpenCode, and VS Code (GitHub Copilot agent mode).
+
+### **[Business Central MCP](https://github.com/SShadowS/business-central-mcp)**
+
+![GitHub stars](https://img.shields.io/github/stars/SShadowS/business-central-mcp?style=social)
+> 🧑‍💻 By [Torben Leth](https://github.com/SShadowS)
+
+Give AI assistants direct access to Microsoft Dynamics 365 Business Central. Native WebSocket protocol - no OData, no APIs, no browser automation.
 
 ## Security & Authentication
 
