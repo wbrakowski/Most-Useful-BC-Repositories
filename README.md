@@ -28,6 +28,7 @@
 - [✍️ Signatures](#signatures)
 - [🎨 UI/UX Extensions](#uiux-extensions)
 - [🛠️ Development Tools](#development-tools)
+- [⚙️ AL Development Tools](#al-development-tools)
 - [🔐 Security & Authentication](#security--authentication)
 - [📖 Learning Resources](#learning-resources)
 - [📚 Books](#books)
