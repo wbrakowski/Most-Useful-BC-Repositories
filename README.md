@@ -412,6 +412,15 @@ We will update the deck based on feedback / requests.
 
 Let's make the upgrade easy together.
 
+### **[BC Permission Set Converter](https://github.com/jeffreybulanadi/bc-permissionset-converter)**
+
+![GitHub stars](https://img.shields.io/github/stars/jeffreybulanadi/bc-permissionset-converter?style=social)
+> 🧑‍💻 By [Jeffrey Bulanadi](https://github.com/jeffreybulanadi)
+
+Turn the permission sets you built in Business Central into AL code, in about two minutes.
+
+Nothing to install. It runs in your browser, and your files never leave your computer.
+
 ## PDF Tools
 
 > Utilities for working with PDF files in Business Central.
@@ -1074,4 +1083,7 @@ Efficiently automate test cases in Dynamics NAV and Business Central.
 ![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Seventh-Edition?style=social)
 > 🧑‍💻 By [Packt Publishing](https://github.com/PacktPublishing)
 
+> ### **[Copilots and Agents for Dynamics 365 Business Central: Build Agentic ERP solutions with AL, Copilot Studio, Azure, and MCP](https://github.com/PacktPublishing/Copilots-and-Agents-for-Dynamics-365-Business-Central)**
 
+![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Copilots-and-Agents-for-Dynamics-365-Business-Central?style=social)
+> 🧑‍💻 By [Packt Publishing](https://github.com/PacktPublishing)
