@@ -216,6 +216,13 @@ Gordon ecosystem is a set of tools that helps you easily manage Business Central
 
 Advanced table editor for Business Central allowing efficient data manipulation.
 
+### **[D365BCAdminMCP](https://github.com/demiliani/D365BCAdminMCP)**
+
+![GitHub stars](https://img.shields.io/github/stars/demiliani/D365BCAdminMCP?style=social)
+> 🧑‍💻 By [Stefano Demiliani](https://github.com/demiliani)
+
+MCP server that lets AI assistants (GitHub Copilot, Claude, Cursor) manage Business Central environments through the Administration Center API: environments, apps, updates, sessions, features and PTE uploads via natural language.
+
 ## Azure
 
 > Integration tools and APIs for connecting Business Central with Azure services.
